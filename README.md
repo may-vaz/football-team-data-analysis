@@ -6,7 +6,7 @@ This project presents an analysis of Manchester United's performance from the 20
 
 The analysis was performed using Python, Matplotlib,seaborn and plotly and visualized in an interactive HTML report.
 
-🔗 **View the full analysis here**: https://may-vaz.github.io/football-team-data-analysis/
+🔗 **View the Plotly analysis here**: https://may-vaz.github.io/football-team-data-analysis/
 
 ## Files in this Repository
 

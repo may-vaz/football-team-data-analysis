@@ -4,7 +4,7 @@
 
 This project presents an analysis of Manchester United's performance from the 2014 to 2021 football seasons. Using match data, we explore simple trends to gain insights into the team's performance over the years.
 
-The analysis was performed using Python, Matplotlib,seaborn and plotly and visualized in an interactive HTML report.
+The analysis and visualizations were performed using Python, Matplotlib,seaborn and plotly.
 
 🔗 **View the Plotly analysis here**: https://may-vaz.github.io/football-team-data-analysis/
 
